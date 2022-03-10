@@ -1,5 +1,5 @@
 import React from "react";
-import {Link, useNavigate} from 'react-router-dom';
+import {useNavigate} from 'react-router-dom';
 import Form from 'react-bootstrap/Form';
 import Button from 'react-bootstrap/Button';
 import 'bootstrap/dist/css/bootstrap.min.css';
@@ -21,16 +21,6 @@ function LoginPage(props) {
 
     return(
         <>
-        {/* <nav>
-            <ul className="d-flex">
-                <li>
-                    <Link to="/">Login</Link>
-                </li>
-                <li>
-                    <Link to="/dashboard">Dashboard</Link>
-                </li>
-            </ul>
-        </nav> */}
         <nav>
 
         </nav>
